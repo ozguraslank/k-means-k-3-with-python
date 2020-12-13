@@ -1,2 +1,5 @@
-# k-means-k-3--with-python
 Coding k = 3, k means algorithm with Python
+
+Note:
+    This program is to learn the logic of k = 3 k-means algorithm, in the program, i have set example dataset and example random points of each clusters.
+    Thank you.
