@@ -1,4 +1,3 @@
-import matplotlib.pyplot as plt
 import numpy as np
 
 def calculate(x1, y1, x2, y2): # calculating the distance between two points
