@@ -1,4 +1,4 @@
-Coding k = 3, k means algorithm with Python
+Coding k means algorithm, k = 3
 New version of the code which has matplotlib.pyplot as well will be uploaded soon.
 
 Note:
